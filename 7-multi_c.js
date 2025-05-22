@@ -7,5 +7,5 @@ if (isNaN(x)) {
   for (let i = 0; i < x; i++) {
     output += "C is fun\n";
   }
-  console.log(output.trim());
+  console.log(output);
 }
